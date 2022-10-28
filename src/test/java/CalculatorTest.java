@@ -7,7 +7,7 @@ public class CalculatorTest {
 
     @DataProvider(name = "factorial_data_provider")
     public Object[][] dpMethod() {
-        return new Object [][] { {5,120}, {4,24},{0,1}, {-1,1},{10,10}};
+        return new Object [][] { {5,120}, {4,24},{0,1}, {-1,1}};
     }
 
    @Test (dataProvider= "factorial_data_provider")
