@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b36bc4ea-06be-429a-a696-27b2031940cb" name="Changes" comment="Add run mvn dependency">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/unit_tests.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/unit_tests.yml" afterDir="false" />
+    <list default="true" id="b36bc4ea-06be-429a-a696-27b2031940cb" name="Changes" comment="update java version in the workflow">
+      <change beforePath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666979238987</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update java version in the workflow">
+      <created>1666979538565</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666979538565</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,6 +107,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="data provider for unit test" />
     <MESSAGE value="Add run mvn dependency" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add run mvn dependency" />
+    <MESSAGE value="update java version in the workflow" />
+    <option name="LAST_COMMIT_MESSAGE" value="update java version in the workflow" />
   </component>
 </project>
