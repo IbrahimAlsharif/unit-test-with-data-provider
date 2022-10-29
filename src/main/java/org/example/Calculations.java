@@ -5,7 +5,7 @@ public class Calculations {
     // but it's not included here, because this implementation is made for sake of
     // explaining the unit tests' usage only
     public int factorial(int number){
-        int factorial =1;
+        int factorial =2;
         while (number >1){
             factorial = factorial * number;
             number--;
